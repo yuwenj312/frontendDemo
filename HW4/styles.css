@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+ul button {
+  margin-left: 10px;
+}
